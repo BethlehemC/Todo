@@ -1,0 +1,64 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing:border-box;
+  font-family: 'Serif';
+}
+.container{
+max-width: 1280px;
+margin: 0 auto;
+display:flex;
+align-items: center;
+justify-content: space-between;
+
+}
+.container h1{
+  display: inline;
+  padding-right: 20px;
+  color:rgb(239, 241, 247);
+}
+.container .menue{
+margin-right: 100px;
+
+}
+
+
+
+.container a {
+text-decoration: none;
+font-size: large;
+color:rgb(226, 232, 243);
+margin-left: 50px;
+margin-right: 50px;
+
+}
+
+nav{
+position: flex;
+top:0;
+left:0;
+right:0;
+z-index: 90;
+background-color: black;
+padding:16px 32px;
+border-bottom: 3px solid rgb(94, 45, 150);
+
+}
+.home .plamh{
+margin-left: 500px;
+font-size: 70px;
+
+}
+.home p{
+margin-left: 20px;
+margin-right: 20px;
+text-indent: 50px;
+line-height: 2;
+font-size: 20px;
+
+
+}
+.home card {
+  box-shadow: 0 4px 8px 0;  /* this adds the "card" effect */
+  padding: 16px;
+  text-align: center;}

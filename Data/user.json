@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "username": "betty",
+      "email": "bkjkj",
+      "password": "lzdjkcn",
+      "confirm": "lkvm",
+      "todos": [
+        {
+          "todo": "jjcbvjb",
+          "date": "hjcbjxhb"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "username": " kfjvn",
+      "Email": " kjcjbn",
+      "password": " kjhzxbc",
+      "confirm": " jhxcb",
+      "todos": [
+        {
+          "todo": "kxfjh",
+          "date": "hjcbjxhb"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "username": " khg",
+      "Email": " kjh",
+      "password": " ouh",
+      "confirm": " tre",
+      "id": 4
+    },
+    {
+      "username": " ",
+      "Email": " ",
+      "password": " ",
+      "confirm": " ",
+      "id": 5
+    },
+    {
+      "username": "",
+      "Email": "",
+      "password": "",
+      "confirm": "",
+      "id": 6
+    },
+    {
+      "username": "khh",
+      "Email": "jv",
+      "password": "jg",
+      "confirm": "kjhg",
+      "id": 7
+    }
+  ]
+}
